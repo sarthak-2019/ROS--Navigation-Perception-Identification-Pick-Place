@@ -1,5 +1,5 @@
 # ROS--Navigation-Perception-Identification-Pick-Place
-Projects needs Ubuntu 18.04 preinstalled.
+#### Projects needs Ubuntu 18.04 preinstalled.The Project is compatible with Python 2.7 consequently, with TensorFlow 1 and 2, and the TensorFlow Object Detection APIs v1 and v2.
 
 ## ROS Melodic Installation
 
@@ -65,6 +65,10 @@ rosdep update`
 `sudo apt install ros-melodic-moveit-ros-planning`<br>
 <br>3-ROS Control<br>
 `sudo apt-get install ros-melodic-ros-control ros-melodic-ros-controllers`<br>
+
+## Dodo Detector Installaion
+Since this package is not on PyPI, you can install it via pip like this:<br>
+`pip install git+https://github.com/douglasrizzo/dodo_detector.git`
 
 
 
