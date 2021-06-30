@@ -1,0 +1,8 @@
+prefix=/home/sarthak/catkin_ws/devel
+
+Name: ebot_task4
+Description: Description of ebot_task4
+Version: 0.0.0
+Cflags: -I/home/sarthak/catkin_ws/devel/include -I/home/sarthak/catkin_ws/src/sahayak_bot/ebot_task4/include
+Libs: -L${prefix}/lib -lebot_task4
+Requires: pcl_ros roscpp rospy std_msgs geometry_msgs message_runtime

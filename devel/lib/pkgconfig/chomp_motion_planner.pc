@@ -1,0 +1,8 @@
+prefix=/home/sarthak/catkin_ws/devel
+
+Name: chomp_motion_planner
+Description: Description of chomp_motion_planner
+Version: 1.0.7
+Cflags: -I/home/sarthak/catkin_ws/src/moveit/moveit_planners/chomp/chomp_motion_planner/include
+Libs: -L${prefix}/lib -lchomp_motion_planner
+Requires: 

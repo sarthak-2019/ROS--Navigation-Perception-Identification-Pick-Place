@@ -1,0 +1,8 @@
+prefix=/home/sarthak/catkin_ws/install
+
+Name: task4_moveit
+Description: Description of task4_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

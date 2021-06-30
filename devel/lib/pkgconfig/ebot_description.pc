@@ -1,0 +1,8 @@
+prefix=/home/sarthak/catkin_ws/devel
+
+Name: ebot_description
+Description: Description of ebot_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/sarthak/catkin_ws/devel
+
+Name: rosparam_shortcuts
+Description: Description of rosparam_shortcuts
+Version: 0.3.3
+Cflags: -I/home/sarthak/catkin_ws/src/rosparam_shortcuts/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -lrosparam_shortcuts
+Requires: roscpp
